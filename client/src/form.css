@@ -1,0 +1,13 @@
+.inputFied input{
+    padding: 20px 30px;
+    display: block;
+    margin: 20px 0;
+}
+.home{
+    max-width: 300px;
+    margin: 0 auto;
+}
+.inputFied h2{
+    font-size: 50px;
+    text-align: center;
+}
